@@ -389,7 +389,7 @@
     "location" : "Computer Centre 3",
     "name" : "Mr. Googler",
     "organizers" : [ {
-      "contact" : "",
+      "contact" : "8542078059",
       "name" : "Garima Gupta"
     }, {
       "contact" : "8896733935",
@@ -427,8 +427,8 @@
     "type" : ""
   },
   "121" : {
-    "date" : "23-03-2017",
-    "description" : "This event contain different type of question oriented to bioengineering (biomedical , biotechnology engineering or any applied science courses related to biology) .this event consist of two rounds. ",
+    "date" : "24-03-2017",
+    "description" : "This event contain different type of question oriented to bioengineering (biomedical , mathematics and general  biology) .This event consist of two rounds. ",
     "extrainfo" : {
       "one" : {
         "infoDetail" : "To be updated",
@@ -442,7 +442,7 @@
       "contact" : "8542078059",
       "name" : "Garima Gupta"
     }, {
-      "contact" : "",
+      "contact" : "7992192839",
       "name" : "Deepak Sonker"
     } ],
     "time" : "11:00 AM - 2:00 PM",
